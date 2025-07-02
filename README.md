@@ -50,3 +50,8 @@ A clean, visually appealing, and interactive automobile sales dashboard designed
 Inspired by best practices in business intelligence and modern dashboard design.
 
 ---
+## 📬 Connect With Me
+
+*Ajay | Data Analyst*  
+🔗 LinkedIn: [linkedin](https://www.linkedin.com/in/ajay-thakur-5158bb186/)
+
